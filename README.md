@@ -8,6 +8,6 @@ This is the deliverable for the Engineering Systems Architecture module in SUTD.
 This will be coming as soon as I fix the game database server issues.
 
 ### To-Do
-- [] Migrate database functionality from the shut down AWS server to another server.
-- [] Refactor and optimise the game.
-- [] Find somewhere to host the game (rshiny.io seems to be pretty slow).
+- [ ] Migrate database functionality from the shut down AWS server to another server.
+- [ ] Refactor and optimise the game.
+- [ ] Find somewhere to host the game (rshiny.io seems to be pretty slow).
